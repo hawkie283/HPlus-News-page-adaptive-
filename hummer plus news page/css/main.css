@@ -1683,17 +1683,7 @@ ul.menu__list.show{
 
     .footer__title{
         font-size: 26px;
-    }
-
-    
-
-    
-
-
-
-   
-    
-    
+    } 
 }
 
 
@@ -1817,23 +1807,7 @@ ul.menu__list.show{
        width: 35%;
     }
 
-
-
-
-
-
-
-
-  
-
-   
-
 }
-
-
-
-
-
 
 
 @media screen and (max-width:575px){
@@ -1878,7 +1852,7 @@ ul.menu__list.show{
 
      /*catalog page*/
      .section__newarrivals{
-        margin-bottom: 200px;
+        margin-bottom: 235px;
      }
 
      .catalog__page-items{
@@ -1953,9 +1927,6 @@ ul.menu__list.show{
         width: 70%;
      }
 
-    
-     
-
 }
 
 
@@ -2017,10 +1988,6 @@ ul.menu__list.show{
         font-size: 1em;
         line-height: 40px;
     }
-
-
-
-
-    
+   
 }
 
